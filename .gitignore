@@ -1,0 +1,7 @@
+# Nunca subir credenciales ni datos crudos
+*.credentials*
+.credentials*
+*.env
+*.key
+*.pem
+.DS_Store
